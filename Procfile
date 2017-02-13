@@ -1,1 +1,1 @@
-web: gunicorn teacher-supplies:app
+web: gunicorn teacher-supplies.main:app
